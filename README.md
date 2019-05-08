@@ -48,3 +48,5 @@ Stage 2:  Human classification of articles from this corpus.  Articles will be m
 Stage 3: Linguistic features will be identified from the article titles (key words, n-grams), as well as other features already present in the data set.  
 
 Stage 4: Train TensorFlow/NN/RandomForest model to classify articles on the basis of how much a given article "looks like" it should be a tip.
+
+Stage 5: Ryan Butner and Ryan Williams are now unemployed after their jobs have been automated
